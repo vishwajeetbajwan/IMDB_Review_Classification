@@ -6,11 +6,11 @@ In this project we will classify the IMDB reviews for positive and negative revi
 
 ## Prerequisites
 It is highly recommend that before starting the project you have some kind of toolchain and development environment already installed and ready. If you have no idea where to start with this, try a combination like:
-Python
-scikit-learn / sklearn
-Pandas
-NumPy
-matplotlib
+- Python
+- scikit-learn / sklearn- 
+- Pandas
+- NumPy
+- matplotlib
 An environment to work in - something like Jupyter or Spyder
 For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
 
