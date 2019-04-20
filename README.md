@@ -1,4 +1,4 @@
-# IMDB_Review_Classification_using_Word_Embeddingg
+# IMDB_Review_Classification_using_Word_Embeddings
 Opinion mining (sometimes known as sentiment analysis or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
 We can use classifiers on textual data to classify the text into its signified emotion. This can be used in various ways to predict the sentiments of any text automatically after it is trained in a corpus of sentences.
 
