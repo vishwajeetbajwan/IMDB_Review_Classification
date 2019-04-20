@@ -1,4 +1,4 @@
-# IMDB_Review_Classification_using_Word_Embeddings(GloVe)
+# IMDB_Review_Classification_using_Word_Embeddingg
 Opinion mining (sometimes known as sentiment analysis or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
 We can use classifiers on textual data to classify the text into its signified emotion. This can be used in various ways to predict the sentiments of any text automatically after it is trained in a corpus of sentences.
 
@@ -11,8 +11,8 @@ It is highly recommend that before starting the project you have some kind of to
 - Pandas
 - NumPy
 - matplotlib
-An environment to work in - something like Jupyter or Spyder
-For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
+- An environment to work in something like Jupyter or Spyder
+- For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
 
 ## Objective:
 - Using unweighted and normalized sentence vectors as features for the text using GloVe word embeddings.
